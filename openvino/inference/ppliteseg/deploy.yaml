@@ -1,0 +1,5 @@
+Deploy:
+  model: model.pdmodel
+  params: model.pdiparams
+  transforms:
+  - type: Normalize
